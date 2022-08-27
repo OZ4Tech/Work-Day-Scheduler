@@ -33,7 +33,7 @@ Please contact https://github.com/OZ4Tech with any questions
 
 ## App Preview
 
-![App Preview]()
+![Work Day Scheduler](https://user-images.githubusercontent.com/103383531/187006213-68532a71-809e-4ceb-9a8e-46db52218ddc.gif)
 
 ## Deployed App Link
 
